@@ -9,3 +9,4 @@ yarn add vue-router@4
 ## Recommended IDE Setup
 
 https://router.vuejs.org/zh/guide/essentials/history-mode.html
+# API_practise
